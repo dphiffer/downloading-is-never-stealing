@@ -8,7 +8,7 @@ Today Verso books [announced](http://www.versobooks.com/blogs/2575-psst-download
 
 The free ebook download is not the only way to read Aaron's writings. (Perhaps, though, it is the easiest way to find the introductory texts commissioned for the book.) We can still download and read these writings in their original context, on the Web, still completely free to download. I encourage you to support Verso—definitely purchase and read the book—but realize that if the politics around intellectual property were different here in the United States (and, presumably, in Canada) we wouldn't have this restriction.
 
-There is much more work to be done, but you can still read Aaron's writings.
+There is much more work to be done, but you can still read Aaron's writings. And there are many more that aren't selected in this one book!
 
 __Note:__ This is a work in progress, I've only set up archive scripts for the first section of the book, __Free Culture__. If you want to help out and take a look at the other sections, I welcome your [Pull Requests](https://github.com/dphiffer/downloading-is-never-stealing/pulls). You can find the table of contents at [Amazon](http://www.amazon.com/The-Boy-Could-Change-World/dp/162097066X#reader_162097066X).
 
