@@ -12,6 +12,8 @@ There is much more work to be done, but you can still read Aaron's writings.
 
 __Note:__ This is a work in progress, I've only set up archive scripts for the first section of the book, __Free Culture__. If you want to help out and take a look at the other sections, I welcome your [Pull Requests](https://github.com/dphiffer/downloading-is-never-stealing/pulls). You can find the table of contents at [Amazon](http://www.amazon.com/The-Boy-Could-Change-World/dp/162097066X#reader_162097066X).
 
+__Psst!__ The title of the repo is a counterpoint to Verso's unfortunate blog post title: [Psst! Downloading Isn't Stealing \[for today\]](http://www.versobooks.com/blogs/2575-psst-downloading-isn-t-stealing-for-today).
+
 ## [The Boy Who Could Change the World: The Writings of Aaron Swartz](http://www.versobooks.com/books/2077-the-boy-who-could-change-the-world)
 
 ### Partial Table of Contents
